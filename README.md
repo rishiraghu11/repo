@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Driver Discovery System
+# 🌾 Crop Yield Prediction & Driver Analysis using Machine Learning
 
 > An end-to-end Machine Learning pipeline to **predict crop yield** and **identify the key factors** driving agricultural productivity — powered by XGBoost and explained with SHAP.
 
