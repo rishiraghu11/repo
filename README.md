@@ -194,6 +194,15 @@ crop-yield-prediction/
 - ✅ **Leakage-free** target encoding (computed on train set only)
 
 ---
+## 👤 Author
+
+**Rishi Raghuvanshi**
+
+- 🌐 GitHub: [@rishiraghu11](https://github.com/rishiraghu11)
+- 💼 LinkedIn: [Rishi Raghuvanshi](https://www.linkedin.com/in/rishi-raj-singh-raghuvanshi/)
+- 📧 Email: raghuvanshi11rishi@gmail.com
+
+---
 
 ## 📚 References
 
